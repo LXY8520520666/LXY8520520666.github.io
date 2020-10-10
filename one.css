@@ -1,5 +1,8 @@
 body {
-    text-align :center 
+    text-align :center；
+    background-image: url(234.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .red {
     color:red;
